@@ -5,7 +5,7 @@ As a Finance Data Analyst, I specialize in harnessing the power of data to drive
 #### Technical Skills: Python, SQL, Excel, Power BI, Tableau, Easymorph
 
 ## Education
-- M.S., Theoretical and Empirical Economics	| Paris School of Economics (_May 2016_)								       		
+- M.S., Empirical and Theoretical Economics	| Paris School of Economics (_May 2016_)								       		
 - M.S., International Economics	| Université Paris 1 Panthéon-Sorbonne (_May 2015_)	 			        		
 - B.S., Economics | Faculdade de Economia da Universidade do Porto (_Sep 2013_)
 
