@@ -1,4 +1,4 @@
-# Presentation
+# About me
 
 As a Finance Data Analyst, I specialize in harnessing the power of data to drive strategic financial decisions. Proficient in data analytics tools such as SQL, Python, and advanced Excel, I have a proven ability to uncover meaningful insights from intricate financial datasets. I excel in translating complex data findings into actionable recommendations, empowering teams to make informed choices. With a keen eye for data integrity and a passion for optimizing analytical processes, I am dedicated to contributing valuable insights that positively impact financial outcomes.
 
