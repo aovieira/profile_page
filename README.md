@@ -2,12 +2,12 @@
 
 As a Finance Data Analyst, I specialize in harnessing the power of data to drive strategic financial decisions. Proficient in data analytics tools such as SQL, Python, and advanced Excel, I have a proven ability to uncover meaningful insights from intricate financial datasets. I excel in translating complex data findings into actionable recommendations, empowering teams to make informed choices. With a keen eye for data integrity and a passion for optimizing analytical processes, I am dedicated to contributing valuable insights that positively impact financial outcomes.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Excel, Power BI, Tableau, Easymorph
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Theoretical and Empirical Economics	| Paris School of Economics (_May 2016_)								       		
+- M.S., International Economics	| Université Paris 1 Panthéon-Sorbonne (_May 2015_)	 			        		
+- B.S., Economics | Faculdade de Economia da Universidade do Porto (_Sep 2013_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
