@@ -26,6 +26,5 @@ I excel in translating complex data findings into actionable recommendations, em
 
 ## Projects
 ### Under Construction
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 In this section I will briefly present my most recent data analysis projects in python.
