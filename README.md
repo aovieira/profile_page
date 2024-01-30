@@ -1,7 +1,6 @@
 # About me
 
-As a Finance Data Analyst, I specialize in harnessing the power of data to drive strategic financial decisions. Proficient in data analytics tools such as SQL, Python, and advanced Excel, I have a proven ability to uncover meaningful insights from intricate financial datasets.<br>
-I excel in translating complex data findings into actionable recommendations, empowering teams to make informed choices. With a keen eye for data integrity and a passion for optimizing analytical processes, I am dedicated to contributing valuable insights that positively impact financial outcomes.
+I'm an experienced financial data analyst with nearly five years of hands-on experience in interpreting and analyzing complex financial data sets. Proficient in utilizing statistical methods, data visualization tools, and advanced knowledge of python, SQL and Excel to extract actionable insights and drive strategic decision-making. Demonstrated ability to perform exploratory data analysis, and implement data mining models to extract miningful insights from the data. Skilled communicator with a track record of story telling, and effectively presenting findings to stakeholders at all levels, fostering collaboration, and driving consensus for data-driven initiatives. Committed to continuous learning and staying abreast of industry trends and best practices in financial analysis.
 
 #### Technical Skills: Python, SQL, Excel, Power BI, Tableau, Easymorph
 
